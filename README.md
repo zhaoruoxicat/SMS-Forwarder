@@ -2,6 +2,7 @@
 
 > 一款基于 **PHP + MySQL + PWA** 的轻量级短信收集、转发与管理系统。  
 > 适用于树莓派 4G 模块、安卓短信转发器、或任何可发起 HTTP 请求的设备，将短信统一保存到云端并可在网页端方便查看。
+<img width="1349" height="617" alt="Snipaste_2025-10-20_21-18-41" src="https://github.com/user-attachments/assets/39ef57df-62aa-412a-82f5-979a393a82c3" />
 
 ---
 
@@ -147,6 +148,7 @@ curl -X POST "https://yourdomain.com/api_sms_receive.php"   -d "token=YOURTOKEN"
 - 首次访问网页时浏览器会提示“添加到主屏幕”；  
 - 安装后可直接以 **气泡聊天视图** 打开短信记录；  
 - 移动端访问默认进入 **PWA 移动视图**，便于查看短信内容；  
+<img width="381" height="824" alt="Snipaste_2025-10-20_21-21-19" src="https://github.com/user-attachments/assets/f78d9c99-f4a6-45f3-8ab3-499ccacc6046" />
 
 ---
 
@@ -158,6 +160,7 @@ curl -X POST "https://yourdomain.com/api_sms_receive.php"   -d "token=YOURTOKEN"
   - 启用 / 禁用；
   - 添加新 Token；
   - 删除无效 Token。
+<img width="1359" height="838" alt="Snipaste_2025-10-20_21-19-48" src="https://github.com/user-attachments/assets/da4477ff-5e66-4ba8-b47b-1e3bbad86b2f" />
 
 ---
 
