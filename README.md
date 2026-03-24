@@ -3,7 +3,7 @@
 > 一款基于 **PHP + MySQL + PWA** 的轻量级短信收集、转发与管理系统。  
 > 适用于树莓派 4G 模块、安卓短信转发器、或任何可发起 HTTP 请求的设备，将短信统一保存到云端并可在网页端方便查看。
 <img width="1349" height="617" alt="Snipaste_2025-10-20_21-18-41" src="https://github.com/user-attachments/assets/39ef57df-62aa-412a-82f5-979a393a82c3" />
-> 配套安卓APP:
+配套安卓APP:
 短信记录查看工具https://github.com/zhaoruoxicat/SMS-viewer-Android
 验证码查看悬浮窗工具https://github.com/zhaoruoxicat/MySmsCode
 ---
